@@ -1,11 +1,17 @@
 # To-Do-List
 Flask Lfh Project
 To-Do-List is general-purpose, Flask based web app, which can be used for simple “honey do” home lists,to manage daily works that have to be done.
+
 REQUIREMENTS
+
  We need Python, if — 3.7 it would be great
+ 
 Virtual Studio Code
+
 Once you have the IDE, create a project. 
+
 virtualenv — setup a working environment.
+
 Installing flask using pip install flask.
 
 Project Plan
